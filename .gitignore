@@ -1,0 +1,18 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pkl
+*.ipynb_checkpoints/
+.env
+.DS_Store
+
+# Datasets or large files
+data/
+*.csv
+
+# Streamlit cache
+.streamlit/
+
+# VS Code or editor files
+.vscode/
+
